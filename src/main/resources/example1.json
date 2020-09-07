@@ -1,0 +1,33 @@
+{
+  "type": "string",
+  "limit": 0,
+  "count": 0,
+  "offset": 0,
+  "total": 0,
+  "data": [
+    {
+      "id": 0,
+      "name": "string",
+      "address": "string",
+      "city_id": "string",
+      "city_name": "string",
+      "region_id": 0,
+      "region_name": "string",
+      "store_type_id": "string",
+      "store_type_name": "string",
+      "segment_id": "string",
+      "external_id": "string",
+      "external_id2": "string",
+      "territory1_id": "string",
+      "territory": "string",
+      "retailer_id": "string",
+      "retailer_name": "string",
+      "lon": 0,
+      "lat": 0,
+      "category": "string",
+      "type": "string",
+      "dt_update": "2020-09-07T19:21:31.402Z",
+      "active_matrices_count": 0
+    }
+  ]
+}
